@@ -112,7 +112,7 @@ export default function MainAboutPage1() {
             </main>
           </>
 
-          <Footer1 />
+          <Footer2 />
         </div>{" "}
       </div>
     </>
