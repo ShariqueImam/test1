@@ -111,7 +111,6 @@ export default function MainAboutPage1() {
               {/* End Home Section */}
             </main>
           </>
-
           <Footer2 />
         </div>{" "}
       </div>

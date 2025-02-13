@@ -36,9 +36,9 @@ export default function Home10MainDemoMultiPage() {
 
             {/* <Home10 /> */}
           </main>
-          <footer className="footer-1 bg-dark-1 light-content">
+          <div className="footer-1 bg-dark-1 light-content">
             <Footer2 />
-          </footer>
+          </div>
         </div>
       </div>{" "}
     </>
