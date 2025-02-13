@@ -2,42 +2,42 @@ export const services = [
   {
     number: "01",
     title: "Web Design",
-    image: "/assets/images/demo-brutalist/services/1.jpg",
+    image: "/assets/images/demo-brutalist/services/1.webp",
     description:
       "We build modern, responsive, and high-performance websites tailored to your business needs. Our expert developers ensure seamless functionality, intuitive navigation, and visually stunning designs to enhance user experience and engagement.",
   },
   {
     number: "02",
     title: "Mobile Apps",
-    image: "/assets/images/demo-brutalist/services/66.jpg",
+    image: "/assets/images/demo-brutalist/services/2.webp",
     description:
       "From concept to deployment, we develop feature-rich, user-friendly mobile apps for iOS and Android. Our apps are designed for optimal performance, scalability, and seamless integration to drive customer engagement and business growth.",
   },
   {
     number: "03",
     title: "Managing",
-    image: "/assets/images/demo-brutalist/services/3.jpg",
+    image: "/assets/images/demo-brutalist/services/3.webp",
     description:
       "We handle website maintenance, updates, security, and performance monitoring, ensuring your site remains fast, secure, and fully functional. Our proactive management allows you to focus on growing",
   },
   {
     number: "04",
     title: "Hosting",
-    image: "/assets/images/demo-brutalist/services/2.jpg",
+    image: "/assets/images/demo-brutalist/services/4.webp",
     description:
       "We offer reliable, high-speed, and secure web hosting solutions with 24/7 support. Our hosting services ensure maximum uptime, data protection, and fast-loading websites for seamless online performance and user satisfaction.",
   },
   {
     number: "05",
     title: "Revamping",
-    image: "/assets/images/demo-brutalist/services/4.jpg",
+    image: "/assets/images/demo-brutalist/services/5.webp",
     description:
       "Give your outdated website a fresh, modern look with our expert revamping services. We enhance design, performance, and usability to align with current trends and improve user experience, engagement, and conversions.",
   },
   {
     number: "06",
     title: "SEO",
-    image: "/assets/images/demo-brutalist/services/6.jpg",
+    image: "/assets/images/demo-brutalist/services/6.webp",
     description:
       "Boost your online visibility with our SEO strategies. We optimize your website for search engines, improve rankings, drive organic traffic, and enhance conversions through keyword research, on-page SEO, and link-building techniques.",
   },
